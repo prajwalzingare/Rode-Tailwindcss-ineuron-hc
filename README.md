@@ -33,8 +33,11 @@ By prajwal zingare
 
 
 
+<h1 align='center'>
 
 [ <img src= "https://img.shields.io/badge/Go LiVE-1DA1F?style=for-the-badge&logo=&logoColor=white" />](https://road-mic-clone-tailwindcss-prajwal.netlify.app/) 
+
+</h1>
 
 ---
 ## 🛠 Technologies used
